@@ -1,1 +1,1 @@
-# Medical-management-system
+# Medical-system-management
